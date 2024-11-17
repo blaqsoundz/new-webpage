@@ -1,0 +1,16 @@
+h1 {
+    color:  #c430d7;
+    animation: forwards;
+}
+
+div {
+    background-color: #b27bb9;
+    padding: 2%;
+    margin: 50px;
+    border-radius: 0%;
+    max-width: fit-content;
+    max-height: max-content;
+}
+p{
+    font-family: 'Courier New', Courier, monospace;
+}
